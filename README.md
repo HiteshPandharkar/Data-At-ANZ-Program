@@ -17,23 +17,24 @@ Data of 100 customers is to be analyzed.
  
  Key Performance Indicator(KPI) - Transactions
  Key Metrics - Monthly Transaction Volumes
- Key Result - Reaching the transactions goal of ___ by the end of the fourth month(quarter).
+ Key Result - Reaching the goal of 15,000 transactions by the end of the fourth month(quarter).
  
- Key Insights - The monthly transactions have on average ___% growth.
+ Key Insights - The monthly transactions have on average 2% growth.
                 
                 The daily transaction volumes are steady around the mean and within 1.5 times standard deviation.
                 
-                Majority of the transactions(___%) came from inter bank, salary, and Payment transactions.
+                Majority of the transactions(36%) came from inter bank, salary, and Payment transactions.
                 
                 Young people in the range 25-30 years old do the most transactions.
                 
-                The morning, aft, eve are the peak times during the day.
+                From early morning to mid day the transactions are less as comapred to other times in the day.
                 
  
-![alt text](https://user-images.githubusercontent.com/57567447/133916643-c99336a5-feda-43c2-8d1a-420466314f78.png?raw=true) 
+![Screenshot (552)](https://user-images.githubusercontent.com/57567447/135148744-2191c3af-dc51-40bd-bfe8-4f9f402a1755.png)
  
  ### Module 2 - Predictive Analytics
  
  Currently under construction the task is to predict the salary of the customer based on customer profile, and buying behaviour.
                 
  
+
